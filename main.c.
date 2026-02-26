@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "funciones.h"
 
-#include <stdio.h>
+
 
 int main() {
     printf("Hola, mundo!\n");
